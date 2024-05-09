@@ -10,7 +10,7 @@ Website that tells you the location of the nearest e-waste collection and recycl
 Ministry of Environment
 
 ## Idea
-## E-Waste Facility Locator: 8 Powerful Ideas
+## E-Waste Facility Locator: 
 
 ## 1. Advanced Search:
    -  Go beyond location by allowing users to filter facilities based on accepted e-waste types (batteries, TVs, computers etc.), specific drop-off requirements (bulk vs individual items), and any associated fees.
